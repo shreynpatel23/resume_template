@@ -1,0 +1,20 @@
+{
+  "name": "shrey_resume",
+  "version": "1.0.0",
+  "description": "you can download my resume from this project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.12",
+    "puppeteer": "^10.2.0",
+    "dotenv": "^10.0.0"
+  },
+  "author": "Shrey Patel",
+  "license": "ISC"
+}
